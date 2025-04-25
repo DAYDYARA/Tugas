@@ -46,4 +46,4 @@ for (int olahraga = 0; olahraga < cabor.length; olahraga++) {
         }
     }
 }
-: untuk menampilkan informasi para atlet dari perulangan setiap cabor, politeknik, dan nama atlet
+: untuk menampilkan informasi para atlet dari perulangan setiap cabor, politeknik, dan nama atlet 
